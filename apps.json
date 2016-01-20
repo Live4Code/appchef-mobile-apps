@@ -1,0 +1,15 @@
+[
+  {
+    "id":1,
+    "intro": "Hacker News Mobile Reader",
+    "name":"Hacker News",
+    "module_name":"HackerNews",
+    "bundle_url":"https://raw.githubusercontent.com/Live4Code/HackerNews-React-Native/master/",
+    "bundle_path":"/main.jsbundle",
+    "build_name":"0.17.0",
+    "creator":{
+      "avatar_url": "https://avatars.githubusercontent.com/u/5649414",
+      "username":"iSimar"
+    }
+  }
+]
