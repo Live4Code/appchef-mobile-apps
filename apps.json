@@ -11,5 +11,44 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5649414",
       "username":"iSimar"
     }
+  },
+  {
+    "id":2,
+    "intro": "This is Why we play",
+    "name":"NBA App",
+    "module_name":"allyoop",
+    "bundle_url":"https://raw.githubusercontent.com/Live4Code/react-native-nba-app/master/",
+    "bundle_path":"/main.jsbundle",
+    "build_name":"0.17.0",
+    "creator":{
+      "avatar_url": "https://avatars.githubusercontent.com/u/5305874",
+      "username":"wwayne"
+    }
+  },
+  {
+    "id":3,
+    "intro": "Employee Directory Sample App",
+    "name":"Employee Directory",
+    "module_name":"EmployeeDirectory",
+    "bundle_url":"https://raw.githubusercontent.com/Live4Code/Employee-Directory-App/master/",
+    "bundle_path":"/main.jsbundle",
+    "build_name":"0.17.0",
+    "creator":{
+      "avatar_url": "https://avatars.githubusercontent.com/u/8132231",
+      "username":"meticulous-dft"
+    }
+  },
+  {
+    "id":4,
+    "intro": "React Native Sample Conference App",
+    "name":"Reactive Conf 2015",
+    "module_name":"Reactive2015",
+    "bundle_url":"https://raw.githubusercontent.com/Live4Code/reactive2015/master/",
+    "bundle_path":"/main.jsbundle",
+    "build_name":"0.17.0",
+    "creator":{
+      "avatar_url": "https://avatars.githubusercontent.com/u/286616",
+      "username":"kenwheeler"
+    }
   }
 ]
